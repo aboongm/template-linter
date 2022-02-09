@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: grey;
+  margin: 10px auto;
+}
+
+header h1 {
+  color: crimson;
+}
